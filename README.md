@@ -1,4 +1,9 @@
 <h2 align="left">Hi 👋! My name is Sudhansh Joshi :)</h2>
+###
+
+<img align="right" height="100" src="https://media1.tenor.com/m/OjzCsUydYUEAAAAC/cute-cha-pri.gif"  />
+
+###
 
 ###
 
@@ -45,10 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<img align="left" height="100" src="https://media1.tenor.com/m/OjzCsUydYUEAAAAC/cute-cha-pri.gif"  />
 
 ###
 
