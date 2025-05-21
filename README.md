@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Sudhansh Joshi :)</h2>
-###
+<h2 align="left">Hi 👋! My name is Sudhansh Joshi :)
 
 <img align="right" height="100" src="https://media1.tenor.com/m/OjzCsUydYUEAAAAC/cute-cha-pri.gif"  />
 
+</h2>
 ###
 
 ###
